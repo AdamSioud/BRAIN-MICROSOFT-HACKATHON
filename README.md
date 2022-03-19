@@ -14,3 +14,5 @@ illegal fishing timeseries forceast
 First result was
 <br>
 https://academic.oup.com/icesjms/article/73/10/2552/2647120
+https://pytorch-forecasting.readthedocs.io/en/stable/tutorials/building.html
+
