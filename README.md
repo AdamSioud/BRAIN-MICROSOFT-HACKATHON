@@ -19,3 +19,10 @@ https://academic.oup.com/icesjms/article/73/10/2552/2647120
 <br> pytorch
 https://pytorch-forecasting.readthedocs.io/en/stable/tutorials/building.html
 
+<br>
+datasets: <br>
+GBIF: https://planetarycomputer.microsoft.com/dataset/gbif (Fish population, per month?) 
+<br>
+Global fishing watch: https://globalfishingwatch.org/our-map/ (Fishing activity, per day)
+
+
