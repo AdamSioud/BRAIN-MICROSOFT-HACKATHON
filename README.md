@@ -19,12 +19,14 @@ https://academic.oup.com/icesjms/article/73/10/2552/2647120
 <br> pytorch
 https://pytorch-forecasting.readthedocs.io/en/stable/tutorials/building.html
 
+Simple time series forecating pytorch: https://towardsdatascience.com/temporal-coils-intro-to-temporal-convolutional-networks-for-time-series-forecasting-in-python-5907c04febc6
+
+
 <br>
 datasets: <br>
 GBIF: https://planetarycomputer.microsoft.com/dataset/gbif (Fish population, per month?) 
 <br>
 Global fishing watch: https://globalfishingwatch.org/our-map/ (Fishing activity, per day)
 <br>
-Simple time series forecating pytorch: https://towardsdatascience.com/temporal-coils-intro-to-temporal-convolutional-networks-for-time-series-forecasting-in-python-5907c04febc6
 
 
