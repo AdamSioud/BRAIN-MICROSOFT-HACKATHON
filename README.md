@@ -44,3 +44,7 @@ OBIS: https://github.com/C4IROcean/OceanDataConnector/blob/master/data/OBIS/OBIS
 World Ocean Database: https://github.com/C4IROcean/OceanDataConnector/blob/master/data/World%20Ocean%20Database/WorldOceanDatabase.md (ph, salinity, chlorophyll, oxygen, temperature?)
 <br>
 Antall fisker fanget. Kan sorteres etter land, områder også videre. United nations Food and Agriculture Organizationhttps://www.fao.org/fishery/statistics-query/en/capture/capture_quantity
+
+
+<br>
+https://www.fiskeridir.no/Akvakultur/Registre-og-skjema/akvakulturregisteret fiskedir
