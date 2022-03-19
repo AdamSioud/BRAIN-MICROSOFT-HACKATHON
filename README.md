@@ -21,6 +21,8 @@ https://pytorch-forecasting.readthedocs.io/en/stable/tutorials/building.html
 
 Simple time series forecating pytorch: https://towardsdatascience.com/training-time-series-forecasting-models-in-pytorch-81ef9a66bd3a
 
+<br> Libraries
+Multivariable time series forecasting, preprocessing datasets https://flow-forecast.atlassian.net/wiki/spaces/FF/overview?homepageId=557195
 
 
 <br>
