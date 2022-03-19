@@ -36,5 +36,7 @@ Global fishing watch: https://globalfishingwatch.org/our-map/ (Fishing activity,
 WoRMS: https://www.marinespecies.org/ (Fish population)
 <br>
 World Ocean Atlas: https://github.com/C4IROcean/OceanDataConnector/blob/master/data/World%20Ocean%20Atlas/WorldOceanAtlas.md (Temperature, salinity)
+<br>
+OBIS: https://github.com/C4IROcean/OceanDataConnector/blob/master/data/OBIS/OBIS.md (Fishes found)
 
 
