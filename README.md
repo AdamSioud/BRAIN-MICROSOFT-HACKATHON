@@ -19,7 +19,8 @@ https://academic.oup.com/icesjms/article/73/10/2552/2647120
 <br> pytorch
 https://pytorch-forecasting.readthedocs.io/en/stable/tutorials/building.html
 
-Simple time series forecating pytorch: https://towardsdatascience.com/temporal-coils-intro-to-temporal-convolutional-networks-for-time-series-forecasting-in-python-5907c04febc6
+Simple time series forecating pytorch: https://towardsdatascience.com/training-time-series-forecasting-models-in-pytorch-81ef9a66bd3a
+
 
 
 <br>
