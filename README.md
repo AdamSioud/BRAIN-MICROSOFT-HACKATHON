@@ -27,6 +27,7 @@ More possible models: https://towardsdatascience.com/the-best-deep-learning-mode
 <br> Libraries
 Multivariable time series forecasting, preprocessing datasets https://flow-forecast.atlassian.net/wiki/spaces/FF/overview?homepageId=557195
 
+Flow-forecast documentation: https://flow-forecast.atlassian.net/wiki/spaces/FF/pages/11042822/Supported+Models
 
 <br>
 datasets: <br>
