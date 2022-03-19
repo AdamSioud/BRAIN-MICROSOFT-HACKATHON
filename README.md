@@ -1,7 +1,7 @@
 # BRAIN-MICROSOFT-HACKATHON
 
 
-WE HACK WE SEE WE CONQUER
+WE HACK WE SEA WE CONQUER
 
 Some resources <br>
 https://www.youtube.com/watch?v=kUzgOmQJRdY <br> 
