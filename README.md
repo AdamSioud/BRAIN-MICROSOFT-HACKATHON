@@ -1,20 +1,18 @@
 # BRAIN-MICROSOFT-HACKATHON
 
-
 WE HACK WE SEA WE CONQUER
 
 Some resources <br>
-https://www.youtube.com/watch?v=kUzgOmQJRdY <br> 
+https://www.youtube.com/watch?v=kUzgOmQJRdY <br>
 https://www.youtube.com/watch?v=EQfQoc8Ybdc <br>
 
-This lead to the search 
+This lead to the search
 <br>
 illegal fishing timeseries forceast
 <br>
 First result was
 <br>
 https://academic.oup.com/icesjms/article/73/10/2552/2647120
-
 
 <br> pytorch
 https://pytorch-forecasting.readthedocs.io/en/stable/tutorials/building.html
@@ -28,6 +26,8 @@ More possible models: https://towardsdatascience.com/the-best-deep-learning-mode
 Multivariable time series forecasting, preprocessing datasets https://flow-forecast.atlassian.net/wiki/spaces/FF/overview?homepageId=557195
 
 Flow-forecast documentation: https://flow-forecast.atlassian.net/wiki/spaces/FF/pages/11042822/Supported+Models
+
+Intro to Time Series Forecasting: [Here] (https://www.kaggle.com/code/iamleonie/intro-to-time-series-forecasting/notebook)
 
 <br>
 datasets: <br>
